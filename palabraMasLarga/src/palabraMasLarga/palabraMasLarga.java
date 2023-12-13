@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 
 public class palabraMasLarga {
-
+/* esto es un comentario */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*int i, c=0;
